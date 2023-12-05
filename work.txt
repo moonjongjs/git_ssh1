@@ -3,3 +3,10 @@ moonseonjong@naver.com"
 git_ssh
 
 git remote remove origin
+
+
+
+팀원
+정지연
+jeungla1303
+jeungla1303@gmail.com

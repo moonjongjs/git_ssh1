@@ -1,10 +1,16 @@
-### 깃허브 SSH 인증키
-===
-
-``````
+===================================
 팀장
-moonseonjong@naver.com
+moonseonjong@naver.com"
+git_ssh
+git remote remove origin
 
-ssh-keygen -t rsa -C "moonseonjong@naver.com" -f "id_rsa_moon_class_room"
+====================================
 
-ssh-keygen -t rsa -C "jeungla1303@gmail.com" -f "id_rsa_jeung_class_room"
+팀원
+jeungla1303
+jeungla1303@gmail.com
+
+https://github.com/moonjongjs/git_ssh1.git
+
+
+====================================
