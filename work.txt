@@ -1,2 +1,5 @@
 팀장
 moonseonjong@naver.com"
+git_ssh
+
+git remote remove origin
